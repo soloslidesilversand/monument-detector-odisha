@@ -1,0 +1,8 @@
+0 ananta vasudev temple
+1 barabati fort
+2 konark sun temple
+3 sri jagganath puri temple
+4 dhauli
+5 khandagiri and udayagiri caves
+6 rajarani temple
+7 lingaraj temple
